@@ -33,7 +33,7 @@ function adicionar() {
 }
 
 function sortear() {
-    if (amigos.length < 4) {
+    if (amigos.length < 8) {
         alert('Adicione pelo menos 4 amigos')
         return;
     } 
